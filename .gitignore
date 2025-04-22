@@ -1,0 +1,17 @@
+.vscode
+.github
+node_modules
+dist    
+package-lock.json
+yarn-error.log
+yarn.lock
+*.log
+*.tsbuildinfo
+*.tgz
+*.zip
+*.tar.gz
+*.tar
+*.gz
+*.tgz
+
+*.class
