@@ -1,0 +1,6 @@
+api_response.txt: 行数=13 単語数=886 文字数=1 
+mail.txt: 行数=2 単語数=2 文字数=0 
+report_search_count.txt: 行数=1 単語数=2 文字数=4 
+report_wc.txt: 行数=3 単語数=21 文字数=0 
+result_bat_files.txt: 行数=3 単語数=3 文字数=0 
+result_emails.txt: 行数=0 単語数=0 文字数=0 

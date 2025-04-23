@@ -1,0 +1,9 @@
+@echo off
+setlocal enabledelayedexpansion
+REM 中級トレーニング001: forループとif文の組み合わせ
+REM 1～10までの数字をループし、偶数のみ表示する
+for /l %%i in (1,1,10) do (
+    set /a mod=%%i %% 2
+    if !mod! == 0 echo %%i
+)
+endlocal

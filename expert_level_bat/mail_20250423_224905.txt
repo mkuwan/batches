@@ -1,0 +1,2 @@
+aaa@example.com
+bbb@example.com
